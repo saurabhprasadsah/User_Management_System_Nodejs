@@ -1,0 +1,16 @@
+{
+  "name": "user_management_system_nodejs",
+  "version": "1.0.0",
+  "description": "\"# User_Management_System_Nodejs\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "saurabh kumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.1"
+  }
+}
